@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="desktop/icon-128.png" alt="CVR" width="64" />
+</p>
+
 # CVR — Cockpit Voice Recorder
 
 AI-powered video subtitle generator. Transcribe any video with Whisper and translate subtitles using OpenAI or Gemini.
@@ -7,10 +11,6 @@ Available as a **CLI tool** and a **desktop app** (Windows / macOS).
 ```
 video → ffmpeg → Whisper (GPU) → LLM translate → .srt
 ```
-
-<p align="center">
-  <img src="desktop/icon-128.png" alt="CVR" width="64" />
-</p>
 
 <p align="center">
   <img src="docs/images/screenshot-main.png" alt="CVR Desktop App" width="700" />
