@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+.venv/
+*.wav
+*.srt
+
+# Desktop app
+desktop/node_modules/
+desktop/dist/
+desktop/src-tauri/target/
+desktop/src-tauri/gen/
+desktop/app-icon.png
+desktop/icon-*.png
+
+# Secrets
+.env
+*.key
+*api_key*
+.modal.toml
