@@ -147,24 +147,24 @@ export GEMINI_API_KEY=AIza-xxx
 
 ## Output Example
 
-**Bilingual mode** (default):
+**Bilingual mode** (default — original + translated):
 ```srt
 1
 00:00:02,800 --> 00:00:06,000
-Hello everyone, good afternoon
-大家下午好
+[Original language line]
+[Translated language line]
 
 2
 00:00:06,000 --> 00:00:11,700
-Today we are honored to have our guest
-今天我们很荣幸邀请到我们的嘉宾
+[Original language line]
+[Translated language line]
 ```
 
 **Translated only** (`--mode translated`):
 ```srt
 1
 00:00:02,800 --> 00:00:06,000
-大家下午好
+[Translated language line only]
 ```
 
 ## How It Works
