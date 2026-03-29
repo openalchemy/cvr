@@ -13,7 +13,6 @@ desktop/dist/
 desktop/src-tauri/target/
 desktop/src-tauri/gen/
 desktop/app-icon.png
-desktop/icon-*.png
 
 # Secrets
 .env
