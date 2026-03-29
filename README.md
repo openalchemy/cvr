@@ -12,6 +12,10 @@ video → ffmpeg → Whisper (GPU) → LLM translate → .srt
   <img src="desktop/icon-128.png" alt="CVR" width="64" />
 </p>
 
+<p align="center">
+  <img src="docs/images/screenshot-main.png" alt="CVR Desktop App" width="700" />
+</p>
+
 ## Features
 
 - **GPU-accelerated transcription** — faster-whisper with CUDA support (auto-detects GPU)
