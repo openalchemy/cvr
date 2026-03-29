@@ -15,6 +15,9 @@ video → ffmpeg → Whisper (GPU) → LLM translate → .srt
 <p align="center">
   <img src="docs/images/screenshot-main.png" alt="CVR Desktop App" width="700" />
 </p>
+<p align="center">
+  <img src="docs/images/screenshot-settings.png" alt="CVR Settings" width="700" />
+</p>
 
 ## Features
 
